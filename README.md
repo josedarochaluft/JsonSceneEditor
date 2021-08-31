@@ -4,6 +4,7 @@ Unity-based software that sets up a 3D scene based on JSON data, allowing users 
 Instructions:
 - Left click on objects and drag the mouse to move them;
 - Right click on objects and and drag horizontally to rotate them;
+- Scroll while hovering the mouse over an object to change its scale;
 - Press the 'D' key to duplicate an object you are hovering the mouse over;
 - Use UI buttons to change color and texture of object materials, reload scene data from JSON(HttpGet) or save changes to a JSON file;
 - ESC to quit the application;
